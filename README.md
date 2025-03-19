@@ -7,11 +7,8 @@
 # Built With
 
 - [React JS](https://reactjs.org/)
-- [React Router](https://github.com/ReactTraining/react-router)
 - [Styled Components](https://www.styled-components.com)
 
-
-## [Check it live here](https://****/)
 
 
 ## About the site
@@ -44,27 +41,21 @@ bulding button en div componenten for styling them up inside a js file
 so you realy get a good componenten lay out ant you can use them al over.
 
 # Check out some links I found really useful!
-CSS Resets - https://bitsofco.de/a-look-at-css-res...
 
-Styled Components - https://www.styled-components.com/doc...
+Styled Components - https://www.styled-components.com/
 
-Flexbox - https://css-tricks.com/snippets/css/a...
+Flexbox - https://css-tricks.com/snippets/css/
 
-Emmet - https://code.visualstudio.com/docs/ed...
+Material Icon - https://material.io/tools/icons/
 
-Material Icon - https://material.io/tools/icons/?icon...
-
-Google Font - https://fonts.google.com/specimen/Luc...
+Google Font - https://fonts.google.com/
 
 Background - https://css-tricks.com/perfect-full-p...
 
-Theme - https://www.styled-components.com/doc...
+Theme - https://styled-components.com/
 
 Color Palette - https://coolors.co/
 
-Chrome Dev Tools Caution - https://mobile1st.com/why-chrome-devt...
-
-Functional setState - https://reactjs.org/docs/react-compon...
 
 # Getting Started with Create React App
 
